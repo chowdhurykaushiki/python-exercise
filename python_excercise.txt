@@ -1,0 +1,35 @@
+# - single line comment
+''' - multiline comments
+2**2 - gives 2 to the power 2
+5//2 = 2 -- gives the quotent
+------------------
+variables :
+ var = print('Hi') -- possible and var will contain Hi
+ a,b,c = 1,2,3 -- possible, where a will be 1, b will be 2, c  will be 3
+ x,y = (5,7) -- possible , where x will be 5, y will be 7
+----------------------
+While loop:
+
+>>>
+Counter = 1
+while counter <=10 :
+	print(counter)
+	counter +=1
+
+
+>>>
+#search for a substring--
+
+string='Today is Thursday!'
+print(string.find('day'))
+if string.find('day') ==-1:
+    print('string not here')
+else:
+    print('its here!')
+    
+>>> 
+#Tuple unpacking
+
+t=(1,2,3)
+x,y,z=t
+print(x,y,z,a)

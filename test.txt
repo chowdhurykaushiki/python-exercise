@@ -1,0 +1,1 @@
+{"tuki": 21, "dripto": 22, "tuk": 23, "babtu": 24, "kaushiki": 25, "driptaroop": 26}
